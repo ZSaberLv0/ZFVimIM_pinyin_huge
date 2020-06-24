@@ -15,7 +15,7 @@ function! s:dbInit()
                 \   'gitUserName' : get(g:, 'ZFVimIM_pinyin_huge_gitUserName', get(g:, 'zf_git_user_name', '')),
                 \   'gitUserToken' : get(g:, 'ZFVimIM_pinyin_huge_gitUserToken', get(g:, 'zf_git_user_token', '')),
                 \   'dbId' : db['dbId'],
-                \ }, 'async')
+                \ })
 endfunction
 
 augroup ZFVimIM_pinyin_huge_augroup
