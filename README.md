@@ -1,7 +1,7 @@
 
 huge pinyin db file for [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)
 
-if you prefer tiny one, check [ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)
+if you prefer tiny one, check [ZSaberLv0/ZFVimIM_pinyin_base](https://github.com/ZSaberLv0/ZFVimIM_pinyin_base)
 
 # configs
 
@@ -26,7 +26,5 @@ if you prefer tiny one, check [ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSab
 
 # add your own db
 
-see [plugin/ZFVimIM_pinyin.vim](https://github.com/ZSaberLv0/ZFVimIM_pinyin/blob/master/plugin/ZFVimIM_pinyin.vim)
-
-also, see [ZSaberLv0/ZFVimIM#cloud-input](https://github.com/ZSaberLv0/ZFVimIM#cloud-input) for more info
+refer to [ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM#make-your-own-db) for more info
 
